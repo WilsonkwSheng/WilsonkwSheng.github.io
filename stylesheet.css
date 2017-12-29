@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
 .container-fluid {
 	background: azure;
 	height: 100vh;
@@ -35,10 +37,12 @@
 	border-radius: 50px;
 }
 
+
 .container-name, .container-home {
 	margin-top: 5px;
 	/*border: 1px solid;*/
 	padding: 5 10 5 10;
+	font-family: "Roboto"
 }
 
 .info {
